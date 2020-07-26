@@ -57,10 +57,4 @@ public class DotComBust {
     void finishPlaying(){
         System.out.println("Thanks");
     }
-
-
-
-
-
-
 }
